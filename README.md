@@ -2,6 +2,17 @@
 
 
 
+nodejs - puppeteer yukledik. 
+
+ne ekledik: 
+npm init -y - package.json dosyasi olustur. 
+npmmcls i puppeteer,
+npm i fs
+npm i path
+
+
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
